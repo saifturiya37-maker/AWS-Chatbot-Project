@@ -1,0 +1,22 @@
+This project demonstrates how to build an AI-powered Retrieval-Augmented Generation (RAG) chatbot using “Amazon Bedrock”.
+
+~ Here's a quick overview of what we're building today:
+I am about to build a chatbot that's trained on your personal documents. When you send a message to your completed chatbot, three things will happen behind the scenes:
+
+1- The chatbot uses an AI model to understand your question and figure out what information it needs to answer it.
+2- The AI model sends a request for information it needs to your Knowledge Base, which is where you process and store your personal documents.
+3- The AI model transforms the raw data (e.g. paragraphs of text) from your Knowledge Base into a proper response, which gets sent back to you.
+
+~ Built using AWS Console (no coding required).
+Steps Implimented:
+
+1- Login from IAM User
+2- Create an S3 Bucket & Upload Files
+3- Setting up a Knowledge Base in Amazon Bedrock
+4- Connect Datasource to Knowledge Base
+5- Get Access to AI-models
+6- Sync your Knowledge Base
+7- Chat with your Chatbot
+
+~ Reference:
+Project Guide - (https://learn.nextwork.org/projects/ai-rag-bedrock)
