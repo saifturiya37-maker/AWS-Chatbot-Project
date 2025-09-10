@@ -18,5 +18,11 @@ Steps Implimented:
 6- Sync your Knowledge Base
 7- Chat with your Chatbot
 
+~ Project Details:
+-Platform: AWS Bedrock  
+-Storage: Amazon S3  
+-AI Models: Bedrock foundation models  
+-Method: Retrieval-Augmented Generation (RAG)  
+
 ~ Reference:
 Project Guide - (https://learn.nextwork.org/projects/ai-rag-bedrock)
